@@ -1,0 +1,32 @@
+Q1_Query)
+
+				#most popular three articles
+------------------------------------------------------
+			Title			                          views
+
+	Candidate is jerk, alleges rival  ||    338647
+	Bears love berries, alleges bear  ||    253801
+(3 Rows)
+
+
+Q2_Query)
+
+				#most popular article authors
+------------------------------------------------------
+
+		   Author			           ||        views
+
+	Ursula La Multa   			   ||	       507594
+	Rudolf von Treppenwitz     ||        423457
+	Anonymous Contributor  	   ||        170098
+(3 Rows)
+
+
+Q3_Query)
+
+				#which days did more than 1% of requests lead to errors
+-------------------------------------------------------------------
+
+			Date										       Error %
+
+	7th July,2016     					 ||        2.26
