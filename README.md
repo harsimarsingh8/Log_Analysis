@@ -33,11 +33,11 @@ This is the project of Udacity NanoDegree. This project includes large database 
 ### Running the tests
 
 * Launch Vagrant VM by running `vagrant up`, you can the log in with `vagrant ssh`
-* Load the data into databse named *news*, use the command `psql -d news -f newsdata.sql` only once.
-    -use **\c** to connect to database="news"
-    -use **\dt** to see the tables in database
-    -use **\dv** to see the views in database
-    -use **\q** to quit the database
+* Load the data into databse named *news*, use the command `psql -d news -f newsdata.sql` only once.<br>
+    -use **\c** to connect to database="news"<br>
+    -use **\dt** to see the tables in database<br>
+    -use **\dv** to see the views in database<br>
+    -use **\q** to quit the database<br>
 * Connect to databse, run the command `psql -d news`.
 * Create a *view* , use the command psql -d news and then run the SQL statement as mentioned below.
 
